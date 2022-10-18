@@ -1,0 +1,14 @@
+{
+  "name": "myfirstnodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Litzy C",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
